@@ -1,2 +1,10 @@
 streamlit
 requests
+# NLP
+nltk==3.8
+pdfplumber
+python-docx
+matplotlib
+seaborn
+wordcloud
+boto3
