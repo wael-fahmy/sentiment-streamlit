@@ -134,7 +134,7 @@ If you use this project, please cite:
 ```
 @misc{fahmy2025serverless,
   title={Serverless AI Inference using AWS SageMaker and Streamlit},
-  author={Wael Fahmy and Amirhossein Zeinali},
+  author={Wael Fahmy and Amirhossein Zeinali Dehaghani},
   year={2025},
   note={Cloud Computing Course Project, Lakehead University}
 }
@@ -147,5 +147,5 @@ If you use this project, please cite:
 For questions or feedback, please contact:
 
 * Wael Fahmy: [wfahmy@lakeheadu.ca](mailto:wfahmy@lakeheadu.ca)
-* Amirhossein Zeinali: [azeinali@lakeheadu.ca](mailto:azeinali@lakeheadu.ca)
+* Amirhossein Zeinali Dehaghani: [azeinali@lakeheadu.ca](mailto:azeinali@lakeheadu.ca)
 
