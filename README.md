@@ -147,5 +147,5 @@ If you use this project, please cite:
 For questions or feedback, please contact:
 
 * Wael Fahmy: [wfahmy@lakeheadu.ca](mailto:wfahmy@lakeheadu.ca)
-* Amirhossein Zeinali: [azeinali@lakeheadu.ca](mailto:azeinali@lakeheadu.ca)
+* Amirhossein Zeinali Dehaghani: [azeinali@lakeheadu.ca](mailto:azeinali@lakeheadu.ca)
 
