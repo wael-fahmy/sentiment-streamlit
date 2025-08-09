@@ -134,7 +134,7 @@ If you use this project, please cite:
 ```
 @misc{fahmy2025serverless,
   title={Serverless AI Inference using AWS SageMaker and Streamlit},
-  author={Wael Fahmy and Amirhossein Zeinali},
+  author={Wael Fahmy and Amirhossein Zeinali Dehaghani},
   year={2025},
   note={Cloud Computing Course Project, Lakehead University}
 }
